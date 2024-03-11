@@ -1,0 +1,21 @@
+main {
+  min-height: 500px;
+}
+
+#section__banner {
+  min-height: 400px;
+}
+
+#section__banner img {
+  height: 700px;
+  object-fit: cover;
+}
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
